@@ -12,3 +12,6 @@ You first indicate which factory will create this kind of objects.
 It is like saying, hey, we are getting a lot of interfaces and factories, lets create something bigger that could provide us with each required factory
 
 
+![image](https://github.com/user-attachments/assets/be850077-0eeb-40b6-ba7a-9f60696596dd)
+
+
